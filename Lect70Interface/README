@@ -2,3 +2,6 @@ Interface : an interface specifies methods that a particular class, is bound to 
 is abstract, which means there's no actual code for any of the methods, you only supply the actual method names 
 and the parameters. The interface guarantees a common behavior between all the classes that implement
 the same interface.
+
+Unlike in C++, Java doesn't allows multiple inheritance, so the way to obtain that functionality we need
+to use interfaces.
